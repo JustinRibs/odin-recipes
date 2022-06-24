@@ -1,0 +1,22 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+body {
+    font-size: 16.7px;
+    background-image: linear-gradient(lightblue, pink);
+
+
+}
+
+.main {
+    height: 700px;
+    width: 700px;
+    background-image: linear-gradient(lightblue, pink);
+
+}
+
+* a {
+    color: rgb(175, 122, 164);
+}
